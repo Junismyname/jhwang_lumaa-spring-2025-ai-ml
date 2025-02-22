@@ -23,7 +23,7 @@ The recommendation system leverages TF-IDF vectorization and cosine similarity t
   - Columns that store lists of dictionaries (e.g., genres, keywords, cast) are converted to a comma-separated string format.
   - Missing values are filled, and text is lowercased for consistency.
 
-*The datasets are stored in the `data/` folder.ed in the `data/` folder.*
+*The datasets are stored in the `data/` folder.*
 
 ---
 
