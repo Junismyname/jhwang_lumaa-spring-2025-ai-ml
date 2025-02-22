@@ -75,4 +75,4 @@ Please note that this recommendation system is built on a relatively small datas
 
 ## Salary Expectation
 
-I'm looking for an intern salary in the range of $20 to $30, but I'm open to negotiation.
+I'm looking for an intern salary in the range of $20 to $25, but I'm open to negotiation.
